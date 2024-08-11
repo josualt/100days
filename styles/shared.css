@@ -1,0 +1,74 @@
+p{
+    color: rgb(255, 255, 255)
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1{
+    color: rgb(57, 56, 56);
+    font-family: ;
+    text-align: center;
+    font-weight: 920;
+    margin-top: 20px;
+    height: 300px;
+    font-size: 25px;
+}
+
+a{
+    color: rgb(82, 1, 1);
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#shit{
+    color:brown ;
+    font-size: xx-large;
+    font-weight: bold;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    margin-top: -150;
+    border: 5px solid rgb(53, 52, 52);
+}
+
+body{
+    text-align: center;
+    background-color: rgb(233, 215, 207);
+    margin: 50px;
+}
+
+ol{
+    width: 500px;
+    margin: 20px auto 0 auto;
+    padding: 0px;
+    text-align: center;
+
+}
+
+li{
+    font-size: 36;
+    list-style: none;
+    color: rgb(83, 82, 82);
+    font-weight: 1000;
+    font-family: sans-serif;
+    margin-top: -250;
+    text-align: center;
+}
+
+main{
+    margin:150 auto 0 auto;
+    background-color:rgb(253, 141, 97); 
+    border-radius: 20px;
+    border: 5px solid rgb(53, 52, 52);
+    padding: 30px;
+    width: 50%;
+
+}
+
