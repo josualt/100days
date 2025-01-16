@@ -1,0 +1,35 @@
+html {
+    background-color: rgb(54, 54, 54);
+}
+
+body {
+}
+
+    main {
+        margin-top: 100px;
+        margin-left: 400px;
+        margin-right: 400px;
+        background-color: rgb(255, 255, 255);
+        padding: 40px;
+        border-radius: 8px;
+    }
+
+    main div {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    main div input {
+        margin-right: 100px;
+    }
+
+    main div label {
+        margin-top: 8px;
+    }
+
+    main button {
+        margin-top: 40px;
+        background-color: rgb(209, 238, 46);
+        padding: 7px;
+    }
